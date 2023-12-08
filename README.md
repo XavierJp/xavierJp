@@ -6,4 +6,4 @@
 <p align='center'>
 I'm Xavier.
 </p>
-<p align='center'>I work for the <a href="https://annuaire-entreprises.data.gouv.fr/">french administration</a>.</p>
+<p align='center'>I live in Rennes and I work for the <a href="https://annuaire-entreprises.data.gouv.fr/">french administration</a>.</p>
