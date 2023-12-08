@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/XavierJp/Ganymede/master/resources/logo/ganymede.svg" width="220px" />
+  <img src="https://raw.githubusercontent.com/XavierJp/Ganymede/master/resources/logo/ganymede.svg" width="150px" />
 </h1>
 
 <h1 align='center'> Hi! Bonjour ! :wave:</h1>
